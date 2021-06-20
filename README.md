@@ -4,9 +4,9 @@
 </p>
 <br/>
 
-# cpp Pool 2021
+# cppPool 2021
 ## Result
-Grade : A + 🏅
+Grade `A` + `🏅`
 ## Days
 
 <a href="https://github.com/tocola/cppPool/tree/main/CPP_day01"><img src="https://img.shields.io/badge/Day_01-11%25-red"></a><br>
