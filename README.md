@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-# cppPool 2021
+# CppPool 2021
 ## Result
 Grade `A` + `🏅`
 ## Days
